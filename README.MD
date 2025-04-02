@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Chiavon, Cristian *[Modificar con su nombre completo]*  
-- **Comisión:** M2025-11 *[Modificar con su comisión, donde 7 es el número de comisión]*  
+- **Nombre:** Chiavón, Cristian 
+- **Comisión:** M2025-11 
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
