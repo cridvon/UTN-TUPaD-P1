@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Chiavon, Cristian 
+- **Nombre:** Chiavón, Cristian 
 - **Comisión:** M2025-11 
 
 ## 📂 Descripción del Repositorio  
