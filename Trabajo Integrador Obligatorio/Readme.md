@@ -11,6 +11,7 @@
 
 ### 1. Introducción
 ### 2. Video de Youtube
+### 3. Archivos del Repositorio
 
 ---
 
@@ -26,5 +27,13 @@ La implementación en Python será un punto clave, demostrando cómo transformar
 ## 2. Video de Youtube
 
 ### https://youtu.be/E1FBw9j9b9Q
+
+---
+
+## 3. Archivos del Repositorio
+
+- TP Integrador - TUP-P1 - Arboles con listas.pdf: Documento con el trabajo.
+
+- arbol_con_listas.py: Código fuente del programa.
 
 ---
