@@ -9,8 +9,8 @@
 
 ## Contenido
 
-1. [Introducción]
-2. [Video de Youtube]
+### 1. Introducción
+### 2. Video de Youtube
 
 ---
 
