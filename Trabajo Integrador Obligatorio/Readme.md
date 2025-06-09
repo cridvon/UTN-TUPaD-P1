@@ -9,8 +9,8 @@
 
 ## Contenido
 
-1. [Introducción](#1-introducción)  
-2. [Video de Youtube](#2-video)  
+1. [Introducción]
+2. [Video de Youtube]
 
 ---
 
@@ -28,9 +28,3 @@ La implementación en Python será un punto clave, demostrando cómo transformar
 ### https://youtu.be/E1FBw9j9b9Q
 
 ---
-
-## 6. Bibliografía
-
-- [Documentación oficial de Python](https://docs.python.org/3/tutorial/classes.html)  
-- [TreeConverter – Visualizador online de árboles binarios](https://treeconverter.com/)  
-- [Implementación con listas anidadas (Material TUP)](https://youtu.be/-D4SxeHQGIg?si=8XpE3JNg24cuOujJ)
